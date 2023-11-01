@@ -1,3 +1,3 @@
-import yantraPackage from 'yantra-package';
+import blueBirdTester from "./blueBirdTester.js";
 
-console.log(yantraPackage);
+blueBirdTester()
