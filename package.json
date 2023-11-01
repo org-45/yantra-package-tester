@@ -11,6 +11,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "yantra-package": "^1.0.1-0"
+    "yantra-package": "^1.0.1"
   }
 }
